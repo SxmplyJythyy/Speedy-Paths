@@ -4,6 +4,9 @@
 
 Speedy Paths, a Minecraft Bedrock Addon! Walk faster on paths and certain surfaces!
 
-<a href="link here">
-  <img alt="Downloads" height="25" src=https://img.shields.io/badge/downloads-0-blue>
-</a>
+<a href="link here"> <img alt="Downloads" height="25" src=https://img.shields.io/badge/downloads-0-blue> </a>
+
+<div align="left">
+
+## Overview
+This add-on adds a speed effect to players when walking on grass paths in Minecraft: Bedrock Edition.
