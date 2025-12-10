@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Speedy Paths [BP]",
+        "description": "Walk faster on paths and certain surfaces!",
+        "uuid": "9c270e64-f5ef-4e1f-8e62-6d61e52a8c13",
+        "version": "1.0.0",
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f5cbe4e9-a287-4c1e-9449-2052b35722f0",
+            "version": "1.0.0"
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "7101b1e6-a3a6-40e7-9f44-81cda8bbd4b2",
+            "version": [1, 0, 0],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.3.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.0.0"
+        }
+    ],
+    "metadata": {
+        "product_type": "addon"
+    }
+}
