@@ -4,7 +4,7 @@
 
 Speedy Paths, a Minecraft Bedrock add-on script! Walk faster on paths and certain surfaces!
 
-<a href="link here"> <img alt="Downloads" height="25" src=https://img.shields.io/badge/downloads-97-blue></a>
+<a href="https://mcpedl.com/speedy-paths/"> <img alt="Downloads" height="25" src=https://img.shields.io/badge/downloads-97-blue></a>
 
 <div align="left">
 
