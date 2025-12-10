@@ -12,7 +12,7 @@ Speedy Paths, a Minecraft Bedrock add-on script! Walk faster on paths and certai
 This add-on script adds a speed effect to players when walking on grass paths in Minecraft: Bedrock Edition.
 
 ## Requirements
-No experiments are required at this time. The mod is currently developed for the latest version, 1.21.120.
+No experiments are required at this time. The mod is currently developed for the latest version, 1.21.130.
 
 ## Credits & Thank YOU!
 This add-on script has been developed and updated with hard work and skill. Thank you to everyone who has helped me create this. Thank you to sydneymotor2 (Phase) for translations and motivation, and thank YOU for checking it out.
