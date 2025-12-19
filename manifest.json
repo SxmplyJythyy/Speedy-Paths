@@ -4,20 +4,15 @@
         "name": "Speedy Paths [BP]",
         "description": "Walk faster on paths and certain surfaces!",
         "uuid": "9c270e64-f5ef-4e1f-8e62-6d61e52a8c13",
-        "version": "1.0.0",
-        "min_engine_version": [1, 21, 0]
+        "version": [1, 1, 0],
+        "min_engine_version": [1, 21, 130]
     },
     "modules": [
         {
-            "type": "data",
-            "uuid": "f5cbe4e9-a287-4c1e-9449-2052b35722f0",
-            "version": "1.0.0"
-        },
-        {
+            "uuid": "7101b1e6-a3a6-40e7-9f44-81cda8bbd4b2",
             "type": "script",
             "language": "javascript",
-            "uuid": "7101b1e6-a3a6-40e7-9f44-81cda8bbd4b2",
-            "version": [1, 0, 0],
+            "version": [1, 1, 0],
             "entry": "scripts/main.js"
         }
     ],
@@ -32,6 +27,8 @@
         }
     ],
     "metadata": {
+        "authors": ["SxmplyJythyy", "Sydneymotor2"],
+        "license": "CUSTOM",
         "product_type": "addon"
     }
 }
